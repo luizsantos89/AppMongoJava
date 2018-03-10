@@ -1,5 +1,1 @@
-Exemplo Java + MongoDB
-=======================
-
-Nesse exemplo temos uma conexão com MongoDB, inserção e consulta.
-Exemplo bem simples e facil compreensão.
+Projeto simples em Netbeans (Java) para aprendizado do JavaDriver com MongoDB
